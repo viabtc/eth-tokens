@@ -59,7 +59,7 @@ func main() {
 			}
 		}
 		if *e { //从ether scan上拉取排名靠前的1000个erc20代币的地址，name，symbol，logo url以及说明信息，并从链上拿到name和symbol来更正ether scan的错误信息
-			spider, err := ether_scan.Initialize("https://mainnet.infura.io")
+			spider, err := ether_scan.Initialize("https://cloudflare-eth.com")
 			if err != nil {
 				panic(err)
 			}
