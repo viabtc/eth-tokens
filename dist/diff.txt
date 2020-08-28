@@ -1,0 +1,421 @@
+diff --git a/dist/tokens.json b/dist/tokens.json
+index 8e892c79..e1d2f1c3 100644
+--- a/dist/tokens.json
++++ b/dist/tokens.json
+@@ -706,7 +706,7 @@
+         "symbol": "BDT",
+         "contract": "0x033030feebd93e3178487c35a9c8ca80874353c9",
+         "decimals": 18,
+-        "logo": "",
++        "logo": "https://raw.githubusercontent.com/viabtc/eth-tokens/master/tokens/0x033030feebd93e3178487c35a9c8ca80874353c9/token.png",
+         "desc": {
+             "en": "ERC20",
+             "zh": "ERC20"
+@@ -1079,6 +1079,24 @@
+             "telegram": ""
+         }
+     },
++    {
++        "name": "UMA Voting Token v1",
++        "symbol": "UMA",
++        "contract": "0x04Fa0d235C4abf4BcF4787aF4CF447DE572eF828",
++        "decimals": 18,
++        "logo": "https://raw.githubusercontent.com/viabtc/eth-tokens/master/tokens/0x04fa0d235c4abf4bcf4787af4cf447de572ef828/token.png",
++        "desc": {
++            "en": "ERC20",
++            "zh": "ERC20"
++        },
++        "website": "",
++        "whitepaper": "UMA is a decentralized financial contracts platform built to enable Universal Market Access.",
++        "invalid": true,
++        "links": {
++            "twitter": "",
++            "telegram": ""
++        }
++    },
+     {
+         "name": "Relax Buddy Token",
+         "symbol": "rbpc",
+@@ -2519,6 +2537,24 @@
+             "telegram": ""
+         }
+     },
++    {
++        "name": "DOS Network Token",
++        "symbol": "DOS",
++        "contract": "0x0A913beaD80F321E7Ac35285Ee10d9d922659cB7",
++        "decimals": 18,
++        "logo": "https://raw.githubusercontent.com/viabtc/eth-tokens/master/tokens/0x0a913bead80f321e7ac35285ee10d9d922659cb7/token.png",
++        "desc": {
++            "en": "ERC20",
++            "zh": "ERC20"
++        },
++        "website": "",
++        "whitepaper": "DOS Network is a chain-agnostic layer 2 decentralized oracle network that offers realtime data feeds and verifiable computation power to mainstream blockchains.",
++        "invalid": true,
++        "links": {
++            "twitter": "",
++            "telegram": ""
++        }
++    },
+     {
+         "name": "HHLChain",
+         "symbol": "hhlc",
+@@ -3167,6 +3203,24 @@
+             "telegram": ""
+         }
+     },
++    {
++        "name": "Wrapped NXM",
++        "symbol": "wNXM",
++        "contract": "0x0d438f3b5175bebc262bf23753c1e53d03432bde",
++        "decimals": 18,
++        "logo": "https://raw.githubusercontent.com/viabtc/eth-tokens/master/tokens/0x0d438f3b5175bebc262bf23753c1e53d03432bde/token.png",
++        "desc": {
++            "en": "ERC20",
++            "zh": "ERC20"
++        },
++        "website": "",
++        "whitepaper": "Blockchain based solutions for smart contract cover.",
++        "invalid": true,
++        "links": {
++            "twitter": "",
++            "telegram": ""
++        }
++    },
+     {
+         "name": "Basic Attention Token",
+         "symbol": "BAT",
+@@ -15893,6 +15947,24 @@
+             "telegram": ""
+         }
+     },
++    {
++        "name": "Serum",
++        "symbol": "SRM",
++        "contract": "0x476c5E26a75bd202a9683ffD34359C0CC15be0fF",
++        "decimals": 6,
++        "logo": "https://raw.githubusercontent.com/viabtc/eth-tokens/master/tokens/0x476c5e26a75bd202a9683ffd34359c0cc15be0ff/token.png",
++        "desc": {
++            "en": "ERC20",
++            "zh": "ERC20"
++        },
++        "website": "",
++        "whitepaper": "Serum is the world's first completely decentralized derivatives exchange with trustless cross-chain trading brought to you by Project Serum, in collaboration with a consortium of crypto trading and DeFi experts.",
++        "invalid": true,
++        "links": {
++            "twitter": "",
++            "telegram": ""
++        }
++    },
+     {
+         "name": "nDEX Network Coin",
+         "symbol": "ndt",
+@@ -17747,6 +17819,24 @@
+             "telegram": ""
+         }
+     },
++    {
++        "name": "MCDEX Token",
++        "symbol": "MCB",
++        "contract": "0x4e352cF164E64ADCBad318C3a1e222E9EBa4Ce42",
++        "decimals": 18,
++        "logo": "https://raw.githubusercontent.com/viabtc/eth-tokens/master/tokens/0x4e352cf164e64adcbad318c3a1e222e9eba4ce42/token.png",
++        "desc": {
++            "en": "ERC20",
++            "zh": "ERC20"
++        },
++        "website": "",
++        "whitepaper": "Monte Carlo Decentralized Exchange is a crypto trading platform that is powered by the Mai Protocol smart contracts deployed on the Ethereum blockchain. The Mai Protocol smart contracts are fully audited by Open Zeppelin, Consensys, and Chain Security.",
++        "invalid": true,
++        "links": {
++            "twitter": "",
++            "telegram": ""
++        }
++    },
+     {
+         "name": "NSS Coin",
+         "symbol": "nss",
+@@ -18076,7 +18166,7 @@
+         "symbol": "ZNT",
+         "contract": "0x4fa000df40c06fc8c7d9179661535846b7cd4f87",
+         "decimals": 18,
+-        "logo": "",
++        "logo": "https://raw.githubusercontent.com/viabtc/eth-tokens/master/tokens/0x4fa000df40c06fc8c7d9179661535846b7cd4f87/token.png",
+         "desc": {
+             "en": "ERC20",
+             "zh": "ERC20"
+@@ -19300,7 +19390,7 @@
+         "symbol": "FTN",
+         "contract": "0x56325d180ec3878a9028afc7b0edcee7486cc9df",
+         "decimals": 18,
+-        "logo": "",
++        "logo": "https://raw.githubusercontent.com/viabtc/eth-tokens/master/tokens/0x56325d180ec3878a9028afc7b0edcee7486cc9df/token.png",
+         "desc": {
+             "en": "ERC20",
+             "zh": "ERC20"
+@@ -23746,7 +23836,7 @@
+         "symbol": "POA20",
+         "contract": "0x6758b7d441a9739b98552b373703d8d3d14f9e62",
+         "decimals": 18,
+-        "logo": "",
++        "logo": "https://raw.githubusercontent.com/viabtc/eth-tokens/master/tokens/0x6758b7d441a9739b98552b373703d8d3d14f9e62/token.png",
+         "desc": {
+             "en": "ERC20",
+             "zh": "ERC20"
+@@ -27575,6 +27665,24 @@
+             "telegram": ""
+         }
+     },
++    {
++        "name": "Ocean Token",
++        "symbol": "OCEAN",
++        "contract": "0x7AFeBBB46fDb47ed17b22ed075Cde2447694fB9e",
++        "decimals": 18,
++        "logo": "https://raw.githubusercontent.com/viabtc/eth-tokens/master/tokens/0x7afebbb46fdb47ed17b22ed075cde2447694fb9e/token.png",
++        "desc": {
++            "en": "ERC20",
++            "zh": "ERC20"
++        },
++        "website": "",
++        "whitepaper": "Ocean Protocol helps developers build Web3 apps to publish, exchange and consume data.",
++        "invalid": true,
++        "links": {
++            "twitter": "",
++            "telegram": ""
++        }
++    },
+     {
+         "name": "Morpheus.Network",
+         "symbol": "MRPH",
+@@ -29322,7 +29430,7 @@
+         }
+     },
+     {
+-        "name": "",
++        "name": "Giga Watt Token",
+         "symbol": "WTT",
+         "contract": "0x84119cb33e8f590d75c2d6ea4e6b0741a7494eda",
+         "decimals": 0,
+@@ -29393,6 +29501,24 @@
+             "telegram": ""
+         }
+     },
++    {
++        "name": "DIAToken",
++        "symbol": "DIA",
++        "contract": "0x84cA8bc7997272c7CfB4D0Cd3D55cd942B3c9419",
++        "decimals": 18,
++        "logo": "https://raw.githubusercontent.com/viabtc/eth-tokens/master/tokens/0x84ca8bc7997272c7cfb4d0cd3d55cd942b3c9419/token.png",
++        "desc": {
++            "en": "ERC20",
++            "zh": "ERC20"
++        },
++        "website": "",
++        "whitepaper": "DIA is delivering verifiable financial data from traditional and crypto sources to its community.",
++        "invalid": true,
++        "links": {
++            "twitter": "",
++            "telegram": ""
++        }
++    },
+     {
+         "name": "Cryptool",
+         "symbol": "tool",
+@@ -30568,7 +30694,7 @@
+         "symbol": "WIN",
+         "contract": "0x899338b84d25ac505a332adce7402d697d947494",
+         "decimals": 8,
+-        "logo": "",
++        "logo": "https://raw.githubusercontent.com/viabtc/eth-tokens/master/tokens/0x899338b84d25ac505a332adce7402d697d947494/token.png",
+         "desc": {
+             "en": "ERC20",
+             "zh": "ERC20"
+@@ -30676,7 +30802,7 @@
+         "symbol": "Bez",
+         "contract": "0x8a1e3930fde1f151471c368fdbb39f3f63a65b55",
+         "decimals": 18,
+-        "logo": "",
++        "logo": "https://raw.githubusercontent.com/viabtc/eth-tokens/master/tokens/0x8a1e3930fde1f151471c368fdbb39f3f63a65b55/token.png",
+         "desc": {
+             "en": "ERC20",
+             "zh": "ERC20"
+@@ -30833,6 +30959,24 @@
+             "telegram": ""
+         }
+     },
++    {
++        "name": "Jarvis Reward Token",
++        "symbol": "JRT",
++        "contract": "0x8a9c67fee641579deba04928c4bc45f66e26343a",
++        "decimals": 18,
++        "logo": "https://raw.githubusercontent.com/viabtc/eth-tokens/master/tokens/0x8a9c67fee641579deba04928c4bc45f66e26343a/token.png",
++        "desc": {
++            "en": "ERC20",
++            "zh": "ERC20"
++        },
++        "website": "",
++        "whitepaper": "Jarvis is a non-custodial financial ecosystem which allows you to manage your assets, from payment to savings, trade any financial markets with any collateral and access any Dapps.",
++        "invalid": true,
++        "links": {
++            "twitter": "",
++            "telegram": ""
++        }
++    },
+     {
+         "name": "Dao.Casino",
+         "symbol": "BET",
+@@ -31432,7 +31576,7 @@
+         "symbol": "KZE",
+         "contract": "0x8de67d55c58540807601dbf1259537bc2dffc84d",
+         "decimals": 18,
+-        "logo": "",
++        "logo": "https://raw.githubusercontent.com/viabtc/eth-tokens/master/tokens/0x8de67d55c58540807601dbf1259537bc2dffc84d/token.png",
+         "desc": {
+             "en": "ERC20",
+             "zh": "ERC20"
+@@ -33322,7 +33466,7 @@
+         "symbol": "LFC",
+         "contract": "0x95c9bd1f81cee7391da3eac81693e60f3292c1e0",
+         "decimals": 18,
+-        "logo": "",
++        "logo": "https://raw.githubusercontent.com/viabtc/eth-tokens/master/tokens/0x95c9bd1f81cee7391da3eac81693e60f3292c1e0/token.png",
+         "desc": {
+             "en": "ERC20",
+             "zh": "ERC20"
+@@ -33502,7 +33646,7 @@
+         "symbol": "Centra",
+         "contract": "0x96A65609a7B84E8842732DEB08f56C3E21aC6f8a",
+         "decimals": 18,
+-        "logo": "",
++        "logo": "https://raw.githubusercontent.com/viabtc/eth-tokens/master/tokens/0x96a65609a7b84e8842732deb08f56c3e21ac6f8a/token.png",
+         "desc": {
+             "en": "ERC20",
+             "zh": "ERC20"
+@@ -35712,7 +35856,7 @@
+         }
+     },
+     {
+-        "name": "USD//C",
++        "name": "USD Coin",
+         "symbol": "USDC",
+         "contract": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+         "decimals": 6,
+@@ -37126,7 +37270,7 @@
+             "zh": "ERC20"
+         },
+         "website": "",
+-        "whitepaper": "A new wave of revolutionary technologies is here. Experience the future. Today. Welcome to Internxt.",
++        "whitepaper": "Launched in 2017, Internxt is working on building a private Internet. Its first service, Internxt Drive, is a decentralized cloud storage service available for individuals and businesses.",
+         "invalid": true,
+         "links": {
+             "twitter": "",
+@@ -38627,6 +38771,24 @@
+             "telegram": ""
+         }
+     },
++    {
++        "name": "AdEx Network",
++        "symbol": "ADX",
++        "contract": "0xADE00C28244d5CE17D72E40330B1c318cD12B7c3",
++        "decimals": 18,
++        "logo": "",
++        "desc": {
++            "en": "ERC20",
++            "zh": "ERC20"
++        },
++        "website": "",
++        "whitepaper": "Decentralized Ad Network",
++        "invalid": true,
++        "links": {
++            "twitter": "",
++            "telegram": ""
++        }
++    },
+     {
+         "name": "Diligence",
+         "symbol": "ira",
+@@ -40270,7 +40432,7 @@
+         "symbol": "eGAS",
+         "contract": "0xb53a96bcbdd9cf78dff20bab6c2be7baec8f00f8",
+         "decimals": 8,
+-        "logo": "",
++        "logo": "https://raw.githubusercontent.com/viabtc/eth-tokens/master/tokens/0xb53a96bcbdd9cf78dff20bab6c2be7baec8f00f8/token.png",
+         "desc": {
+             "en": "ERC20",
+             "zh": "ERC20"
+@@ -47087,6 +47249,24 @@
+             "telegram": ""
+         }
+     },
++    {
++        "name": "Curve DAO Token",
++        "symbol": "CRV",
++        "contract": "0xD533a949740bb3306d119CC777fa900bA034cd52",
++        "decimals": 18,
++        "logo": "https://raw.githubusercontent.com/viabtc/eth-tokens/master/tokens/0xd533a949740bb3306d119cc777fa900ba034cd52/token.png",
++        "desc": {
++            "en": "ERC20",
++            "zh": "ERC20"
++        },
++        "website": "",
++        "whitepaper": "",
++        "invalid": true,
++        "links": {
++            "twitter": "",
++            "telegram": ""
++        }
++    },
+     {
+         "name": "Aitheon",
+         "symbol": "acu",
+@@ -52559,6 +52739,24 @@
+             "telegram": ""
+         }
+     },
++    {
++        "name": "Perlin",
++        "symbol": "PERL",
++        "contract": "0xeca82185adce47f39c684352b0439f030f860318",
++        "decimals": 18,
++        "logo": "https://raw.githubusercontent.com/viabtc/eth-tokens/master/tokens/0xeca82185adce47f39c684352b0439f030f860318/token.png",
++        "desc": {
++            "en": "ERC20",
++            "zh": "ERC20"
++        },
++        "website": "",
++        "whitepaper": "PerlinX — democratizing the trading of real-world assets through decentralized liquidity pools and synthetic asset generation.",
++        "invalid": true,
++        "links": {
++            "twitter": "",
++            "telegram": ""
++        }
++    },
+     {
+         "name": "SimplyBrand",
+         "symbol": "sba",
+@@ -53081,6 +53279,24 @@
+             "telegram": ""
+         }
+     },
++    {
++        "name": "Ethverse Token",
++        "symbol": "ETHV",
++        "contract": "0xEeEeeeeEe2aF8D0e1940679860398308e0eF24d6",
++        "decimals": 18,
++        "logo": "https://raw.githubusercontent.com/viabtc/eth-tokens/master/tokens/0xeeeeeeeee2af8d0e1940679860398308e0ef24d6/token.png",
++        "desc": {
++            "en": "ERC20",
++            "zh": "ERC20"
++        },
++        "website": "",
++        "whitepaper": "Ethverse is an open, interactive, and decentralized virtual universe built using the Minecraft gaming engine and Ethereum blockchain. Ethverse users own and trade land and assets within the world. Ethverse allows users to engage in immersive experiences and monetize assets \u0026 services.",
++        "invalid": true,
++        "links": {
++            "twitter": "",
++            "telegram": ""
++        }
++    },
+     {
+         "name": "Krios",
+         "symbol": "kri",
