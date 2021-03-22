@@ -137,7 +137,7 @@ func main() {
 		}
 		for index, token := range tokens {
 			if token.Logo != "" {
-				tokens[index].Logo = fmt.Sprintf("https://raw.githubusercontent.com/BlockABC/eth-tokens/master/tokens/%s/token.png", strings.ToLower(token.Contract))
+				tokens[index].Logo = fmt.Sprintf("https://raw.githubusercontent.com/viabtc/eth-tokens/master/tokens/%s/token.png", strings.ToLower(token.Contract))
 			}
 		}
 
